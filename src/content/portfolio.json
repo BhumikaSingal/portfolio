@@ -1,0 +1,258 @@
+{
+  "site": {
+    "title": "Bhumika Portfolio",
+    "description": "BCA student at Maharshi Dayanand Saraswati with experience in Python development, cloud engineering, data analysis, and web development."
+  },
+  "navigation": {
+    "home": "home",
+    "about": "about",
+    "projects": "projects",
+    "experience": "experience",
+    "skills": "skills",
+    "resume": "resume",
+    "contact": "contact"
+  },
+  "home": {
+    "eyebrow": "~ if lost, return to the cat ~",
+    "greeting": "hello, I'm",
+    "name": "Bhumika",
+    "instruction": "",
+    "subtext": "powered by curiosity"
+  },
+  "wheel": {
+    "about": { "label": "who am i?", "sublabel": "(about)" },
+    "projects": { "label": "things i've built", "sublabel": "(projects)" },
+    "experience": { "label": "places i've wandered", "sublabel": "(experience)" },
+    "skills": { "label": "tiny superpowers", "sublabel": "(skills)" },
+    "resume": { "label": "paper trail", "sublabel": "(resume)" },
+    "contact": { "label": "say hi!", "sublabel": "(contact)" }
+  },
+  "about": {
+    "title": "about",
+    "subtitle": "(a brain dump)",
+    "intro": "I'm a BCA student at Maharshi Dayanand Saraswati with an 8.9/10 CGPA. I've explored Python development, cloud engineering, data analysis, web development, and research through internships and projects.",
+    "likesTitle": "things i like",
+    "likes": [
+      "building with Python",
+      "cloud engineering and automation",
+      "exploring and understanding data",
+      "making useful web experiences"
+    ],
+    "stackTitle": "stack, roughly",
+    "stack": "Python, Java, JavaScript, Django, REST APIs, AWS, Azure, Docker, Kubernetes, Terraform, CI/CD, Linux, HTML, CSS, and Python-based data analysis.",
+    "current": "Currently studying for a Bachelor of Computer Applications and building experience across backend development, cloud infrastructure, data workflows, and responsive web interfaces.",
+    "currentCaption": "learning by building"
+  },
+  "projectsSection": {
+    "title": "projects",
+    "subtitle": "",
+    "liveDemoLabel": "view live demo",
+    "sourceLabel": "github"
+  },
+  "projects": [
+    {
+      "title": "AI-Optimized Cloud Storage System",
+      "blurb": "A cloud-focused storage solution built around application and infrastructure components.",
+      "long": "- Developed a cloud-focused storage solution involving application and infrastructure components\n- Applied backend and cloud engineering concepts\n- Focused on automation, reliability, and data handling",
+      "tech": ["Python", "Cloud", "Backend", "Automation", "Data Handling"],
+      "liveUrl": "",
+      "sourceUrl": ""
+    },
+    {
+      "title": "Trading Git",
+      "blurb": "A trading-focused application for processing and presenting financial information.",
+      "long": "- Developed a trading-focused application for processing and presenting financial information\n- Implemented Python-based data processing and application logic\n- Used Git for version control",
+      "tech": ["Python", "Data Processing", "Git"],
+      "liveUrl": "",
+      "sourceUrl": ""
+    },
+    {
+      "title": "School Management System",
+      "blurb": "A management platform for students, teachers, and administrators.",
+      "long": "- Developed a management platform for students, teachers, and administrators\n- Implemented backend functionality and database operations\n- Developed role-based functionality and input validation",
+      "tech": ["Backend", "Databases", "Role-Based Access", "Input Validation"],
+      "liveUrl": "",
+      "sourceUrl": ""
+    }
+  ],
+  "experienceSection": {
+    "title": "work scrapbook",
+    "subtitle": "development, cloud, data, research"
+  },
+  "experience": [
+    {
+      "number": "01",
+      "title": "Brain Cluster",
+      "role": "Python Developer",
+      "dates": "June 2026 – July 2026",
+      "description": "Python applications, Django backend services, REST APIs, automation, and testing.",
+      "tech": ["Python", "Django", "REST APIs", "Automation", "Automated Testing"],
+      "long": "- Developed and maintained Python applications and backend functionality\n- Implemented REST APIs, backend services, and automation workflows using Python and Django\n- Investigated application issues through logs and failure reproduction\n- Wrote and maintained automated tests"
+    },
+    {
+      "number": "02",
+      "title": "HEPROAI",
+      "role": "Cloud Engineer Intern",
+      "dates": "November 2025 – May 2026",
+      "description": "Cloud operations and automation across AWS and Azure, with a reported 67% reduction in manual effort.",
+      "tech": ["AWS", "Azure", "Python", "Docker", "Kubernetes", "Terraform", "CI/CD", "Linux"],
+      "long": "- Supported cloud infrastructure and services using AWS and Azure\n- Automated deployment, infrastructure, monitoring, and operational workflows using Python and cloud services\n- Reported a 67% reduction in manual effort\n- Worked with Docker, Kubernetes, CI/CD, Linux, and Terraform\n- Investigated infrastructure and application issues using logs, monitoring tools, and debugging"
+    },
+    {
+      "number": "03",
+      "title": "IBM",
+      "role": "Data Analyst Virtual Internship",
+      "dates": "June 2026 – July 2026",
+      "description": "Python workflows for structured data cleaning, transformation, analysis, and automation.",
+      "tech": ["Python", "Data Analysis", "Exploratory Analysis", "Automation"],
+      "long": "- Cleaned, transformed, and analyzed structured datasets using Python\n- Developed scripts and workflows for data manipulation and exploratory analysis\n- Automated repetitive data-processing tasks"
+    },
+    {
+      "number": "04",
+      "title": "SUVIDHA",
+      "role": "Web Developer Intern",
+      "dates": "February 2026 – March 2026",
+      "description": "Responsive web interfaces and interactive frontend components using HTML, CSS, and JavaScript.",
+      "tech": ["HTML", "CSS", "JavaScript", "Responsive Design"],
+      "long": "- Developed responsive web interfaces using HTML, CSS, and JavaScript\n- Implemented interactive frontend components\n- Improved webpage usability and responsiveness\n- Debugged frontend issues and followed testing, version-control, and iterative-development practices"
+    },
+    {
+      "number": "05",
+      "title": "Suvidha Foundation",
+      "role": "Research Intern · Suvidha Mahila Mandal",
+      "dates": "September 2025 – November 2025",
+      "description": "Technical and project research, information analysis, and structured documentation.",
+      "tech": ["Research", "Information Analysis", "Documentation"],
+      "long": "- Conducted technical and project-related research\n- Collected, organized, and analyzed information from multiple sources\n- Prepared structured documentation and research outputs"
+    },
+    {
+      "number": "06",
+      "title": "Hamari Pahchan NGO",
+      "role": "Swaraj Fellowship · Social Entrepreneurship",
+      "dates": "June 2025 – September 2025",
+      "description": "Participated in a fellowship focused on social entrepreneurship.",
+      "tech": ["Social Entrepreneurship", "Fellowship"],
+      "long": "- Participated in the Swaraj Fellowship focused on social entrepreneurship"
+    }
+  ],
+  "skillsSection": { "title": "skills", "subtitle": "( my aquarium )" },
+  "skills": [
+    {
+      "name": "Python",
+      "detail": "Application development, automation, backend workflows, and data analysis."
+    },
+    {
+      "name": "Java & JavaScript",
+      "detail": "Programming languages used across coursework and web development."
+    },
+    { "name": "Django & REST APIs", "detail": "Backend services and API development with Python." },
+    { "name": "AWS & Azure", "detail": "Cloud platforms used for infrastructure and services." },
+    {
+      "name": "Docker & Kubernetes",
+      "detail": "Containerization and orchestration for cloud workloads."
+    },
+    { "name": "Terraform & CI/CD", "detail": "Infrastructure and deployment workflow automation." },
+    { "name": "Linux", "detail": "Command-line operations and cloud environment support." },
+    {
+      "name": "HTML, CSS & JavaScript",
+      "detail": "Responsive interfaces and interactive frontend components."
+    },
+    {
+      "name": "Git & Monitoring",
+      "detail": "Version control, logs, monitoring, and issue investigation."
+    }
+  ],
+  "resume": {
+    "title": "resume",
+    "subtitle": "tucked in the back",
+    "foldedLabel": "resume",
+    "foldedCaption": "",
+    "unfoldInstruction": "pull me out!",
+    "documentTitle": "quick glance",
+    "documentSubtitle": "A concise version of my work, education, and skills.",
+    "paragraphs": [
+      "BCA student at Maharshi Dayanand Saraswati with an 8.9/10 CGPA and experience across Python development, cloud engineering, data analysis, and web development.",
+      "Hands-on with Python, Django, REST APIs, AWS, Azure, Docker, Kubernetes, Terraform, CI/CD, Linux, HTML, CSS, JavaScript, and Git."
+    ],
+    "downloadLabel": "download PDF",
+    "downloadUrl": "/resume.pdf",
+    "foldBackLabel": "fold back",
+    "aboutTitle": "about me",
+    "summary": "BCA student based in Haryana, India, with an 8.9/10 CGPA and experience in Python development, cloud engineering, data analysis, and web development.",
+    "educationTitle": "education",
+    "education": [
+      {
+        "degree": "Bachelor of Computer Applications (BCA)",
+        "school": "Maharshi Dayanand Saraswati",
+        "dates": "2024–2027",
+        "cgpa": "CGPA: 8.9/10"
+      }
+    ],
+    "skillsTitle": "skills",
+    "skills": [
+      "Python / Java / JavaScript",
+      "Django / REST APIs",
+      "AWS / Azure",
+      "Docker / Kubernetes / Terraform / CI/CD / Linux",
+      "HTML / CSS / Data Analysis / Git"
+    ],
+    "certificationsTitle": "certifications",
+    "certifications": [
+      "DevOps Certification — Intellipaat",
+      "Generative AI — IBM",
+      "Data Fundamentals — IBM",
+      "Tata GenAI Powered Data Analytics Job Simulation — Forage",
+      "Responsive Web Design — freeCodeCamp",
+      "Java Deep Learning — Mindlister"
+    ],
+    "achievementTitle": "achievement",
+    "achievement": "Tata Crucible Campus Quiz 2025 — Cleared Preliminary Level",
+    "experienceTitle": "experience",
+    "experience": [
+      { "role": "Python Developer", "company": "Brain Cluster", "dates": "June 2026 – July 2026" },
+      {
+        "role": "Cloud Engineer Intern",
+        "company": "HEPROAI",
+        "dates": "November 2025 – May 2026"
+      },
+      {
+        "role": "Data Analyst Virtual Internship",
+        "company": "IBM",
+        "dates": "June 2026 – July 2026"
+      },
+      {
+        "role": "Web Developer Intern",
+        "company": "SUVIDHA",
+        "dates": "February 2026 – March 2026"
+      },
+      {
+        "role": "Research Intern",
+        "company": "Suvidha Foundation (Suvidha Mahila Mandal)",
+        "dates": "September 2025 – November 2025"
+      },
+      {
+        "role": "Swaraj Fellowship · Social Entrepreneurship",
+        "company": "Hamari Pahchan NGO",
+        "dates": "June 2025 – September 2025"
+      }
+    ]
+  },
+  "contact": {
+    "title": "contact",
+    "subtitle": "Haryana, India · write me a letter :)",
+    "salutation": "dear human,",
+    "nameLabel": "my name is",
+    "namePlaceholder": "e.g. someone lovely",
+    "emailLabel": "reach me at",
+    "emailPlaceholder": "you@somewhere.com",
+    "messageLabel": "i want to say...",
+    "messagePlaceholder": "hi! i'd love to...",
+    "sendLabel": "send letter",
+    "email": "bhumika23456@gmail.com",
+    "phone": "+91 9992109809",
+    "github": "https://github.com/bhumika-singal",
+    "linkedin": "",
+    "signoff": "yours, Bhumika",
+    "successMessage": "Thanks, your letter is in."
+  }
+}
